@@ -1,7 +1,7 @@
 # Jogo de Dados
 
 *Trabalho de **POO***
-
+https://github.com/Pedro-Guilherme-SC/JogoDeDados
 ---
 
 O sistema consiste em dois dados e uma quantidade X de jogadores, informada no início do jogo.  
@@ -14,6 +14,8 @@ Após todos os jogadores informarem suas apostas, os dados são lançados.
 ---
 
 ##  Estrutura de Dados
+
+![diagrama de classes.png](/diagrama de classes.png)
 
 * FK = Foreign Key (Chave Estrangeira);
 
