@@ -15,7 +15,7 @@ Após todos os jogadores informarem suas apostas, os dados são lançados.
 
 ##  Estrutura de Dados
 
-![diagrama de classes.png](/diagrama de classes.png)
+![diagrama_de_classes](/diagrama_de_classes.png)
 
 * FK = Foreign Key (Chave Estrangeira);
 
