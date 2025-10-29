@@ -93,6 +93,8 @@ Após todos os jogadores informarem suas apostas, os dados são lançados.
 
 ## Funcionamento
 
+![Casos_de_uso](/Casos_de_uso.png)
+
 1. **Cadastro de Usuário** → Criação de conta (USER).  
 2. **Criação de Rodada** → Usuário define nome e limite de apostas (BET). 
 3. **Apostar** → Usuários apostam valores e informam seus palpites (GAMBLE).
